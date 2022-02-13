@@ -1,3 +1,0 @@
-/home/z1p1t/workspace/templates/ConanCmakeTempalte/build/CMakeFiles/rebuild_cache.dir
-/home/z1p1t/workspace/templates/ConanCmakeTempalte/build/CMakeFiles/edit_cache.dir
-/home/z1p1t/workspace/templates/ConanCmakeTempalte/build/CMakeFiles/TestConan.dir
